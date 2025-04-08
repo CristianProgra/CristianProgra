@@ -85,13 +85,6 @@
 <a href="mailto:pacoprogramador242@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/CristianProgra/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <!--
 **CristianProgra/CristianProgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
